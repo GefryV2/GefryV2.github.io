@@ -26,6 +26,7 @@ div {
     display: block;
 }
 li {
-    display: list-item;
+    display: inline-block;
     text-align: -webkit-match-parent;
+    list-style-type: none;
 }
