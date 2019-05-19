@@ -2,7 +2,7 @@
     width: 100%;
     background-color: #FC9D00;
     font-family: Arial;
-    display:block;
+    display:inline-block;
 }
 a {
     color: #FFFFFF;
@@ -14,7 +14,7 @@ a {
     font-size: 13px;
 }
 ul {
-    display: block;
+    display: inline-block;
     list-style-type: disc;
     margin-block-start: 1em;
     margin-block-end: 1em;
