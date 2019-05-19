@@ -24,3 +24,7 @@ ul {
 div {
     display: block;
 }
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
