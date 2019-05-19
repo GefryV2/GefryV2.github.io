@@ -7,4 +7,5 @@ a {
 table {
     text-align: right;
     border:0px;
+    display: inline-block;
 }
