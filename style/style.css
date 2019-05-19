@@ -1,11 +1,14 @@
+.menu8 {
+    width: 100%;
+    background-color: #FC9D00;
+    font-family: Arial;
+}
 a {
-    color:red;
-}
-.punkt1,.punkt2,.punkt3 {
-    margin: 10px;
-}
-table {
-    text-align: right;
-    border:0px;
-    display: inline-block;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+    padding: 0px 13px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 13px;
 }
