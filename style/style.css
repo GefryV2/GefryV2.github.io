@@ -2,7 +2,6 @@
     width: 100%;
     background-color: #FC9D00;
     font-family: Arial;
-    display:block;
 }
 a {
     color: #FFFFFF;
@@ -14,19 +13,8 @@ a {
     font-size: 13px;
 }
 ul {
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
-div {
-    display: block;
+    list-style-type: none;
 }
 li {
     display: inline-block;
-    text-align: -webkit-match-parent;
-    list-style-type: none;
 }
