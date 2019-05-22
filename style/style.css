@@ -48,3 +48,12 @@ body.p1 {
     text-align: center;
     color: coral;
 }
+
+
+/* media */
+
+@media (max-width: 800px) {
+    h1 {
+        font-size: 1.25em;
+    }
+}
